@@ -31,7 +31,7 @@ if (isset($_POST['login'])) {
       </SCRIPT>");
   }
 }
-
+//comment
 ?>
 
 <!DOCTYPE html>
